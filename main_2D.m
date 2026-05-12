@@ -1,5 +1,5 @@
 clc; 
-clear variables; % Replaced clear all with clear variables for better performance
+clear variables;
 clf;
 close all
 % ==========================================
