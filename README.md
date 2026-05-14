@@ -23,3 +23,7 @@ If you use this code in your research, please cite:
   pages={},  
   doi={}  
 }
+
+# License
+This repository is provided for research and educational use. Please contact the authors for other usage
+
